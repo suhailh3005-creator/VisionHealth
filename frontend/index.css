@@ -1,0 +1,20 @@
+body {
+  background: #0B0E14;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.clay-card {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.3), 
+              inset 5px 5px 10px rgba(255,255,255,0.05);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+}
+
+.neon-text {
+  color: #32FF7E;
+  text-shadow: 0 0 10px #32FF7E;
+}
